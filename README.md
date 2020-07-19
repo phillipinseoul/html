@@ -1,2 +1,2 @@
 # html
-html tutorials for web
+html tutorials for web development
