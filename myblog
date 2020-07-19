@@ -2,3 +2,12 @@
 <h1><span>About Me!</span></h1>
 <p>Hello, my name is <strong>Phillip</strong>. I am a CS major in KAIST. </p>
 <p class="quote">"Find out more information about me!"</p>
+
+<h1><span>My Skills</spans></h1>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Java</li>
+    <li>Scala</li>
+  </ul>
+  
